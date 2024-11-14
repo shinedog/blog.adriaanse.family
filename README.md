@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/86b5f631-945b-4eff-8370-d111cfaa7952/deploy-status)](https://app.netlify.com/sites/venerable-donut-473c6a/deploys)
+
 # Next.js on Netlify Platform Starter
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
